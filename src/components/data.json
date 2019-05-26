@@ -1,0 +1,8 @@
+[
+    {"name": "Home","icon": "home"
+    },
+    {"name": "Repositories","icon": "home"
+    },
+    {"name": "Settings","icon": "home","type": "dropdown"
+    }
+]
